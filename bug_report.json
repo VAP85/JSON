@@ -1,3 +1,5 @@
 {
-"bug_description": "wrong preview"
+"bug_description": "wrong preview",
+  "priotity": "high",
+  "severity":"low"
 }
